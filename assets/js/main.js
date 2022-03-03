@@ -196,7 +196,7 @@
 function openSocialNetwork(link) {
 	switch (link) {
 		case 'twi': window.open('https://twitter.com/GenaroSulca');
-		case 'git': window.open('https://github.com/gsantov');
+		case 'git': window.open('https://github.com/gsantov?tab=repositories');
 		case 'ins': window.open('https://www.instagram.com/genarosulcav');
 		case 'lin': window.open('http://www.linkedin.com/in/genaro-sulca-villamarín-676669b8');
 	}
